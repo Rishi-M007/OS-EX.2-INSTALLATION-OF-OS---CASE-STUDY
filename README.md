@@ -24,6 +24,3 @@ To install an operating system using virtual box.
 
 ## RESULT:
 Hence the OS is successfully installed and set up using virtual box.
-
-
-RESULT:
